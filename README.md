@@ -1,6 +1,6 @@
 **Hospitals** provide accommodation and services to people who need care for 24 hours or more. The services may include observing, diagnosing and treating people suffering from illness or injury.
 
-**Community Mental Health / Behavioral Health Agencies **that may be certified to provide mental health, substance use disorder (SUD), problem gambling and gambling disorder services, or any combination of these types of services.
+**Community Mental Health / Behavioral Health Agencies** that may be certified to provide mental health, substance use disorder (SUD), problem gambling and gambling disorder services, or any combination of these types of services.
 
 **Substance Use Disorder / Residential** community-based facilities that provide 24-hour inpatient care for people with mental health and/or chemical dependency disorders in a residential treatment setting.
 
